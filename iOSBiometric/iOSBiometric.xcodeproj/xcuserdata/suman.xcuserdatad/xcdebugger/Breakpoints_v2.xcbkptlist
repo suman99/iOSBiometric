@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "36FC69DF-AB2E-41D7-8CF6-6FED0345BC34"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "375820AF-FC4A-4B29-B179-5CB42540C433"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSBiometric/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "verifyBiometrics(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "375820AF-FC4A-4B29-B179-5CB42540C433 - 190109da47835342"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSBiometric.ViewController.verifyBiometrics(Any) -&gt; ()"
+                  moduleName = "iOSBiometric"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/Biometrics-iOS/iOSBiometric/iOSBiometric/iOSBiometric/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "375820AF-FC4A-4B29-B179-5CB42540C433 - 6f263281e5fa0c54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, iOSBiometric.BiometricAuthenticaiton.BiometricType, Swift.Optional&lt;iOSBiometric.BiometricAuthenticaiton.BiometricError&gt;) -&gt; () in iOSBiometric.ViewController.verifyBiometrics(Any) -&gt; ()"
+                  moduleName = "iOSBiometric"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suman/Documents/Suman_Personal_Docs/Learnings/Biometrics-iOS/iOSBiometric/iOSBiometric/iOSBiometric/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
